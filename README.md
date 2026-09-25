@@ -38,7 +38,7 @@ npm run lint       # vérifier la qualité du code
 
  Feuille de route
 
-Fait ✅	À venir
+Fait À venir
 Patrimoine, locataires, paiements Monetbil, reçus, contrats OHADA, réclamations	Notifications SMS/WhatsApp (retards), OTP par SMS
 	État des lieux photo avant/après, calculateur de préavis
 	Mode hors-ligne, application Android
